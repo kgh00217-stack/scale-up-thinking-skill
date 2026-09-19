@@ -1,5 +1,7 @@
 # Scale-Up Thinking Skill (스케일업 스킬)
 
+저장소: https://github.com/kgh00217-stack/scale-up-thinking-skill
+
 업무를 요청할 때마다 "이 요청을 AI 사이즈로 키우면 어떻게 될까?"를 먼저 물어보는 Claude Code 스킬입니다.
 
 원래 요청(1배)에 더해, 범위·깊이·비교 대상을 넓힌 10배 버전과 조직/산업 수준으로 확장한 100배 버전을 함께 제안합니다. 사람이 고른 스케일로 작업을 실행합니다.
